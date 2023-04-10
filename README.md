@@ -1,4 +1,4 @@
-## Inferential Statistics for Data Scientists
+## Inferential Statistical Model to Predict the Weight of Newborns
 
   Inferential study of a medical dataset regarding 2.500 newborns of 3 different hospitals, containing parameters related to mothers (age, smoker/non smoker, number of     previous pregnancies, etc.) and infants (sex, weight, length, skull diameter, etc.). 
    (e.g. does a mother who smokes have a higher probability to give birth to an underweight baby?).
